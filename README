@@ -1,0 +1,4 @@
+Twitch IRC bot along with webhooks that get notifications when someone follows and when a user goes live. I originally wrote this thinking I would never put this code on Github, and I don't want to take the time to clean up the code or document anything. Good luck!
+
+
+Usage: go run *.go <server|callbacks>

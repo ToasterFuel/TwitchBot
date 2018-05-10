@@ -1,0 +1,8 @@
+{
+    "Oauth": "<oath token>",
+    "UserName":"<bot name>",
+    "ChannelName":"<channel to listen for>",
+    "CallbackUserId":"<channel userId>",
+    "CallbackUrl":"<some server you own>",
+    "Secret":"<Used to sign request to verify they came from twitch>"
+}
